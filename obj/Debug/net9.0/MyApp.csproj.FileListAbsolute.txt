@@ -1,0 +1,5 @@
+D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cache
+D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
+D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.sourcelink.json
