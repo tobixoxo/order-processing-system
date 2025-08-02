@@ -3,3 +3,13 @@ D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.AssemblyInfoInputs.cach
 D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.AssemblyInfo.cs
 D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.csproj.CoreCompileInputs.cache
 D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.sourcelink.json
+D:\Coding\order-processing-system\bin\Debug\net9.0\MyApp.exe
+D:\Coding\order-processing-system\bin\Debug\net9.0\MyApp.deps.json
+D:\Coding\order-processing-system\bin\Debug\net9.0\MyApp.runtimeconfig.json
+D:\Coding\order-processing-system\bin\Debug\net9.0\MyApp.dll
+D:\Coding\order-processing-system\bin\Debug\net9.0\MyApp.pdb
+D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.dll
+D:\Coding\order-processing-system\obj\Debug\net9.0\refint\MyApp.dll
+D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.pdb
+D:\Coding\order-processing-system\obj\Debug\net9.0\MyApp.genruntimeconfig.cache
+D:\Coding\order-processing-system\obj\Debug\net9.0\ref\MyApp.dll

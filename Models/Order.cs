@@ -1,5 +1,3 @@
-using System.Guid;
-
 namespace OrderProcessingSystem
 {
     public class Order {
@@ -7,8 +5,9 @@ namespace OrderProcessingSystem
         public long amount;
         public string userId;
 
-        public Order(long amount, string userId){
-            orderid = new Guid.NewGuid();
+        public Order(long amount, string userId)
+        {
+            orderid = Guid.NewGuid().ToString();
             this.amount = amount;
             this.userId = userId;
         }
